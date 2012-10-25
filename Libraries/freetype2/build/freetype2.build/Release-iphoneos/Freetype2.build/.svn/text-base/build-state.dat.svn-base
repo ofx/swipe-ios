@@ -1,0 +1,1994 @@
+TFreetype2
+v3
+r1
+cCheck dependencies
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/autofit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftapi.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbase.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbbox.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbitmap.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdebug.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftglyph.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftinit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftstroke.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsynth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsystem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/psnames.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/cff.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/pshinter.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/raster.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/sfnt.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/smooth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/truetype.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c normal armv6 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/autofit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftapi.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbase.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbbox.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c normal armv7 c com.apple.compilers.llvmgcc42
+cLibtool /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a normal armv6
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbitmap.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdebug.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftglyph.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftinit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftstroke.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsynth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsystem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/psnames.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/cff.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/pshinter.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/raster.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/sfnt.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/smooth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c normal armv7 c com.apple.compilers.llvmgcc42
+cCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/truetype.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c normal armv7 c com.apple.compilers.llvmgcc42
+cLibtool /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a normal armv7
+cCreateUniversalBinary /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/libFreetype2.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D5F25270000000000000110
+t1298081063
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/inttypes.h
+c000000004D4F6E900000000000002674
+t1297051280
+s9844
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/setjmp.h
+c000000004D4F6E900000000000000438
+t1297051280
+s1080
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/stdio.h
+c000000004D4F6E910000000000004763
+t1297051281
+s18275
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/string.h
+c000000004D4F6E910000000000001A3A
+t1297051281
+s6714
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/usr/llvm-gcc-4.2/lib/gcc/arm-apple-darwin10/4.2.1/include/limits.h
+c000000004D54C8E30000000000000D03
+t1297402083
+s3331
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/usr/llvm-gcc-4.2/lib/gcc/arm-apple-darwin10/4.2.1/include/stdarg.h
+c000000004D54C8E300000000000010DD
+t1297402083
+s4317
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/usr/llvm-gcc-4.2/lib/gcc/arm-apple-darwin10/4.2.1/include/stddef.h
+c000000004D54C8E30000000000003197
+t1297402083
+s12695
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/libFreetype2.a
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/Freetype2.LinkFileList
+c000000004DE63DAD0000000000000C1A
+t1306934701
+s3098
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/autofit.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/cff.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftapi.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbase.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbbox.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbitmap.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdebug.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftglyph.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftinit.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftstroke.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsynth.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsystem.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/pshinter.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/psnames.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/raster.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/sfnt.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/smooth.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/truetype.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/Freetype2.LinkFileList
+c000000004DE63DAD0000000000000C1A
+t1306934701
+s3098
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/autofit.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/cff.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftapi.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbase.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbbox.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbitmap.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdebug.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftglyph.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftinit.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftstroke.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsynth.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsystem.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/pshinter.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/psnames.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/raster.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/sfnt.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/smooth.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/truetype.o
+t2
+s0
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/include/freetype/config/ftheader.h
+c000000004DA0F07400000000000060B9
+t1302392948
+s24761
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/include/freetype/ftimage.h
+c000000004DA0F0740000000000014276
+t1302392948
+s82550
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/include/ft2build.h
+c000000004DA0F0740000000000000889
+t1302392948
+s2185
+i<freetype/config/ftheader.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afangles.c
+c000000004DA0F0740000000000001A00
+t1302392948
+s6656
+i"aftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afcjk.c
+c000000004DA0F074000000000000AA80
+t1302392948
+s43648
+i"aftypes.h"
+i"aflatin.h"
+i"afcjk.h"
+i"aferrors.h"
+i"afwarp.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afcjk.h
+c000000004DA0F07400000000000007D7
+t1302392948
+s2007
+i"afhints.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afdummy.c
+c000000004DA0F074000000000000084F
+t1302392948
+s2127
+i"afdummy.h"
+i"afhints.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afdummy.h
+c000000004DA0F0740000000000000677
+t1302392948
+s1655
+i"aftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/aferrors.h
+c000000004DA0F07400000000000007A1
+t1302392948
+s1953
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afglobal.c
+c000000004DA0F0740000000000002285
+t1302392948
+s8837
+i"afglobal.h"
+i"afdummy.h"
+i"aflatin.h"
+i"afcjk.h"
+i"afindic.h"
+i"afpic.h"
+i"aferrors.h"
+i"aflatin2.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afglobal.h
+c000000004DA0F0740000000000000ADC
+t1302392948
+s2780
+i"aftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afhints.c
+c000000004DA0F0740000000000006EFD
+t1302392948
+s28413
+i"afhints.h"
+i"aferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afhints.h
+c000000004DA0F07400000000000028D6
+t1302392948
+s10454
+i"aftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afindic.c
+c000000004DA0F0740000000000000F92
+t1302392948
+s3986
+i"aftypes.h"
+i"aflatin.h"
+i"afindic.h"
+i"aferrors.h"
+i"afcjk.h"
+i"afwarp.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afindic.h
+c000000004DA0F07400000000000005D1
+t1302392948
+s1489
+i"afhints.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/aflatin.c
+c000000004DA0F0740000000000010491
+t1302392948
+s66705
+i<ft2build.h>
+i"aflatin.h"
+i"aferrors.h"
+i"afwarp.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/aflatin.h
+c000000004DA0F0740000000000001BBC
+t1302392948
+s7100
+i"afhints.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/aflatin2.c
+c000000004DA0F0740000000000010EAD
+t1302392948
+s69293
+i"aflatin.h"
+i"aflatin2.h"
+i"aferrors.h"
+i"afwarp.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/aflatin2.h
+c000000004DA0F07400000000000005D3
+t1302392948
+s1491
+i"afhints.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afloader.c
+c000000004DA0F07400000000000044E2
+t1302392948
+s17634
+i"afloader.h"
+i"afhints.h"
+i"afglobal.h"
+i"aferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afloader.h
+c000000004DA0F0740000000000000964
+t1302392948
+s2404
+i"afhints.h"
+i"afglobal.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afmodule.c
+c000000004DA0F0740000000000000B8C
+t1302392948
+s2956
+i"afmodule.h"
+i"afloader.h"
+i"afpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afmodule.h
+c000000004DA0F07400000000000005CF
+t1302392948
+s1487
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afpic.c
+c000000004DA0F0740000000000000E1A
+t1302392948
+s3610
+i<ft2build.h>
+i"afpic.h"
+i"aflatin.h"
+i"aflatin2.h"
+i"afcjk.h"
+i"afdummy.h"
+i"afindic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afpic.h
+c000000004DA0F0740000000000000979
+t1302392948
+s2425
+i"aftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/aftypes.h
+c000000004DA0F0740000000000003C97
+t1302392948
+s15511
+i"ft2build.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afwarp.c
+c000000004DA0F07400000000000023DA
+t1302392948
+s9178
+i"afwarp.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/afwarp.h
+c000000004DA0F0740000000000000855
+t1302392948
+s2133
+i"afhints.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c
+c000000004DA0F0740000000000000664
+t1302392948
+s1636
+i<ft2build.h>
+i"afpic.c"
+i"afangles.c"
+i"afglobal.c"
+i"afhints.c"
+i"afdummy.c"
+i"aflatin.c"
+i"aflatin2.c"
+i"afcjk.c"
+i"afindic.c"
+i"afloader.c"
+i"afmodule.c"
+i"afwarp.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c
+c000000004DA0F0740000000000000C3E
+t1302392948
+s3134
+i<ft2build.h>
+i"basepic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.h
+c000000004DA0F07400000000000008F9
+t1302392948
+s2297
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftadvanc.c
+c000000004DA0F074000000000000140E
+t1302392948
+s5134
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c
+c000000004DA0F0740000000000000FCA
+t1302392948
+s4042
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c
+c000000004DA0F0740000000000000695
+t1302392948
+s1685
+i<ft2build.h>
+i"ftpic.c"
+i"basepic.c"
+i"ftadvanc.c"
+i"ftcalc.c"
+i"ftdbgmem.c"
+i"ftgloadr.c"
+i"ftobjs.c"
+i"ftoutln.c"
+i"ftrfork.c"
+i"ftsnames.c"
+i"ftstream.c"
+i"fttrigon.c"
+i"ftutil.c"
+i"ftmac.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.h
+c000000004DA0F0740000000000000B70
+t1302392948
+s2928
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c
+c000000004DA0F07400000000000063DC
+t1302392948
+s25564
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c
+c000000004DA0F0740000000000003C4C
+t1302392948
+s15436
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftcalc.c
+c000000004DA0F07400000000000054A3
+t1302392948
+s21667
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c
+c000000004DA0F07400000000000061DA
+t1302392948
+s25050
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c
+c000000004DA0F0740000000000001DB9
+t1302392948
+s7609
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftgloadr.c
+c000000004DA0F07400000000000033C8
+t1302392948
+s13256
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c
+c000000004DA0F0740000000000004468
+t1302392948
+s17512
+i<ft2build.h>
+i"basepic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c
+c000000004DA0F0740000000000002046
+t1302392948
+s8262
+i<ft2build.h>
+i"basepic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftobjs.c
+c000000004DA0F074000000000001F408
+t1302392948
+s128008
+i<ft2build.h>
+i"ftbase.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftoutln.c
+c000000004DA0F0740000000000007236
+t1302392948
+s29238
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c
+c000000004DA0F07400000000000007A5
+t1302392948
+s1957
+i<ft2build.h>
+i"basepic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftrfork.c
+c000000004DA0F0740000000000006AB1
+t1302392948
+s27313
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsnames.c
+c000000004DA0F0740000000000000C97
+t1302392948
+s3223
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstream.c
+c000000004DA0F0740000000000004DAC
+t1302392948
+s19884
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c
+c000000004DA0F074000000000000CE21
+t1302392948
+s52769
+i<ft2build.h>
+i"basepic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c
+c000000004DA0F0740000000000001744
+t1302392948
+s5956
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c
+c000000004DA0F074000000000000363C
+t1302392948
+s13884
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/fttrigon.c
+c000000004DA0F0740000000000002BA1
+t1302392948
+s11169
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftutil.c
+c000000004DA0F0740000000000002F4A
+t1302392948
+s12106
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c
+c000000004DA0F07400000000000005BE
+t1302392948
+s1470
+i<ft2build.h>
+i"cffpic.c"
+i"cffdrivr.c"
+i"cffparse.c"
+i"cffload.c"
+i"cffobjs.c"
+i"cffgload.c"
+i"cffcmap.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffcmap.c
+c000000004DA0F07400000000000019EA
+t1302392948
+s6634
+i"cffcmap.h"
+i"cffload.h"
+i"cfferrs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffcmap.h
+c000000004DA0F0740000000000000B25
+t1302392948
+s2853
+i"cffobjs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffdrivr.c
+c000000004DA0F07400000000000055FF
+t1302392948
+s22015
+i<ft2build.h>
+i"cffdrivr.h"
+i"cffgload.h"
+i"cffload.h"
+i"cffcmap.h"
+i"cffparse.h"
+i"cfferrs.h"
+i"cffpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffdrivr.h
+c000000004DA0F07400000000000005BE
+t1302392948
+s1470
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cfferrs.h
+c000000004DA0F074000000000000074F
+t1302392948
+s1871
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffgload.c
+c000000004DA0F0740000000000016215
+t1302392948
+s90645
+i<ft2build.h>
+i"cffobjs.h"
+i"cffload.h"
+i"cffgload.h"
+i"cfferrs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffgload.h
+c000000004DA0F0740000000000001F5F
+t1302392948
+s8031
+i<ft2build.h>
+i"cffobjs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffload.c
+c000000004DA0F074000000000000B93D
+t1302392948
+s47421
+i<ft2build.h>
+i"cffload.h"
+i"cffparse.h"
+i"cfferrs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffload.h
+c000000004DA0F0740000000000000A67
+t1302392948
+s2663
+i<ft2build.h>
+i"cfftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffobjs.c
+c000000004DA0F0740000000000007C11
+t1302392948
+s31761
+i<ft2build.h>
+i"cffobjs.h"
+i"cffload.h"
+i"cffcmap.h"
+i"cfferrs.h"
+i"cffpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffobjs.h
+c000000004DA0F0740000000000001C51
+t1302392948
+s7249
+i<ft2build.h>
+i"cfftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffparse.c
+c000000004DA0F07400000000000061F6
+t1302392948
+s25078
+i<ft2build.h>
+i"cffparse.h"
+i"cfferrs.h"
+i"cffpic.h"
+i"cfftoken.h"
+i"cfftoken.h"
+i"cfftoken.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffparse.h
+c000000004DA0F0740000000000000ADE
+t1302392948
+s2782
+i<ft2build.h>
+i"cfftypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffpic.c
+c000000004DA0F0740000000000001244
+t1302392948
+s4676
+i<ft2build.h>
+i"cffpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cffpic.h
+c000000004DA0F0740000000000000E15
+t1302392948
+s3605
+i"cffparse.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cfftoken.h
+c000000004DA0F074000000000000100D
+t1302392948
+s4109
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cfftypes.h
+c000000004DA0F07400000000000023C5
+t1302392948
+s9157
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshalgo.c
+c000000004DA0F074000000000000F1CE
+t1302392948
+s61902
+i<ft2build.h>
+i"pshalgo.h"
+i"pshnterr.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshalgo.h
+c000000004DA0F0740000000000001F39
+t1302392948
+s7993
+i"pshrec.h"
+i"pshglob.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshglob.c
+c000000004DA0F0740000000000005408
+t1302392948
+s21512
+i<ft2build.h>
+i"pshglob.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshglob.h
+c000000004DA0F0740000000000001904
+t1302392948
+s6404
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c
+c000000004DA0F0740000000000000590
+t1302392948
+s1424
+i<ft2build.h>
+i"pshpic.c"
+i"pshrec.c"
+i"pshglob.c"
+i"pshalgo.c"
+i"pshmod.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshmod.c
+c000000004DA0F0740000000000000DBC
+t1302392948
+s3516
+i<ft2build.h>
+i"pshrec.h"
+i"pshalgo.h"
+i"pshpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshnterr.h
+c000000004DA0F0740000000000000756
+t1302392948
+s1878
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshpic.c
+c000000004DA0F0740000000000000A48
+t1302392948
+s2632
+i<ft2build.h>
+i"pshpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshpic.h
+c000000004DA0F0740000000000000749
+t1302392948
+s1865
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshrec.c
+c000000004DA0F0740000000000007E82
+t1302392948
+s32386
+i<ft2build.h>
+i"pshrec.h"
+i"pshalgo.h"
+i"pshnterr.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshrec.h
+c000000004DA0F07400000000000014A3
+t1302392948
+s5283
+i<ft2build.h>
+i"pshglob.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psmodule.c
+c000000004DA0F0740000000000003A4D
+t1302392948
+s14925
+i<ft2build.h>
+i"psmodule.h"
+i"pstables.h"
+i"psnamerr.h"
+i"pspic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psmodule.h
+c000000004DA0F07400000000000005B6
+t1302392948
+s1462
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnamerr.h
+c000000004DA0F07400000000000007A7
+t1302392948
+s1959
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c
+c000000004DA0F0740000000000000553
+t1302392948
+s1363
+i<ft2build.h>
+i"pspic.c"
+i"psmodule.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/pspic.c
+c000000004DA0F0740000000000000C38
+t1302392948
+s3128
+i<ft2build.h>
+i"pspic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/pspic.h
+c000000004DA0F07400000000000007DE
+t1302392948
+s2014
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/pstables.h
+c000000004DA0F074000000000004021A
+t1302392948
+s262682
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/ftmisc.h
+c000000004DA0F0740000000000000E3F
+t1302392948
+s3647
+i"inttypes.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/ftraster.c
+c000000004DA0F074000000000001CCF8
+t1302392948
+s118008
+i<string.h>
+i"ftmisc.h"
+i"ftimage.h"
+i<ft2build.h>
+i"ftraster.h"
+i"rastpic.h"
+i"rasterrs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/ftraster.h
+c000000004DA0F0740000000000000785
+t1302392948
+s1925
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/ftrend1.c
+c000000004DA0F0740000000000002281
+t1302392948
+s8833
+i<ft2build.h>
+i"ftrend1.h"
+i"ftraster.h"
+i"rastpic.h"
+i"rasterrs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/ftrend1.h
+c000000004DA0F074000000000000070E
+t1302392948
+s1806
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c
+c000000004DA0F074000000000000056A
+t1302392948
+s1386
+i<ft2build.h>
+i"rastpic.c"
+i"ftraster.c"
+i"ftrend1.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/rasterrs.h
+c000000004DA0F07400000000000007A5
+t1302392948
+s1957
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/rastpic.c
+c000000004DA0F0740000000000000CDD
+t1302392948
+s3293
+i<ft2build.h>
+i"rastpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/rastpic.h
+c000000004DA0F074000000000000071B
+t1302392948
+s1819
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfdriver.c
+c000000004DA0F0740000000000004302
+t1302392948
+s17154
+i<ft2build.h>
+i"sfdriver.h"
+i"ttload.h"
+i"sfobjs.h"
+i"sfntpic.h"
+i"sferrors.h"
+i"ttsbit.h"
+i"ttpost.h"
+i"ttbdf.h"
+i"ttcmap.h"
+i"ttkern.h"
+i"ttmtx.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfdriver.h
+c000000004DA0F07400000000000005B3
+t1302392948
+s1459
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sferrors.h
+c000000004DA0F074000000000000076E
+t1302392948
+s1902
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c
+c000000004DA0F0740000000000000678
+t1302392948
+s1656
+i<ft2build.h>
+i"sfntpic.c"
+i"ttload.c"
+i"ttmtx.c"
+i"ttcmap.c"
+i"ttkern.c"
+i"sfobjs.c"
+i"sfdriver.c"
+i"ttsbit.c"
+i"ttpost.c"
+i"ttbdf.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfntpic.c
+c000000004DA0F074000000000000110E
+t1302392948
+s4366
+i<ft2build.h>
+i"sfntpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfntpic.h
+c000000004DA0F0740000000000000E69
+t1302392948
+s3689
+i"ttbdf.h"
+i"ttcmap.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfobjs.c
+c000000004DA0F0740000000000009878
+t1302392948
+s39032
+i<ft2build.h>
+i"sfobjs.h"
+i"ttload.h"
+i"ttcmap.h"
+i"ttkern.h"
+i"sferrors.h"
+i"ttbdf.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfobjs.h
+c000000004DA0F07400000000000007BC
+t1302392948
+s1980
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttbdf.c
+c000000004DA0F0740000000000001B4E
+t1302392948
+s6990
+i<ft2build.h>
+i"ttbdf.h"
+i"sferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttbdf.h
+c000000004DA0F0740000000000000688
+t1302392948
+s1672
+i<ft2build.h>
+i"ttload.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttcmap.c
+c000000004DA0F074000000000001A135
+t1302392948
+s106805
+i<ft2build.h>
+i"sferrors.h"
+i"ttload.h"
+i"ttcmap.h"
+i"sfntpic.h"
+i"ttcmapc.h"
+i"ttcmapc.h"
+i"ttcmapc.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttcmap.h
+c000000004DA0F074000000000000145B
+t1302392948
+s5211
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttcmapc.h
+c000000004DA0F0740000000000000799
+t1302392948
+s1945
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttkern.c
+c000000004DA0F0740000000000001EF0
+t1302392948
+s7920
+i<ft2build.h>
+i"ttkern.h"
+i"sferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttkern.h
+c000000004DA0F074000000000000078A
+t1302392948
+s1930
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttload.c
+c000000004DA0F074000000000000BB47
+t1302392948
+s47943
+i<ft2build.h>
+i"ttload.h"
+i"sferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttload.h
+c000000004DA0F0740000000000000CAF
+t1302392948
+s3247
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttmtx.c
+c000000004DA0F0740000000000003DF3
+t1302392948
+s15859
+i<ft2build.h>
+i"ttmtx.h"
+i"sferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttmtx.h
+c000000004DA0F07400000000000007C9
+t1302392948
+s1993
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttpost.c
+c000000004DA0F0740000000000004201
+t1302392948
+s16897
+i<ft2build.h>
+i"ttpost.h"
+i"sferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttpost.h
+c000000004DA0F07400000000000006D5
+t1302392948
+s1749
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttsbit.c
+c000000004DA0F074000000000000D2EC
+t1302392948
+s53996
+i<ft2build.h>
+i"ttsbit0.c"
+i<ft2build.h>
+i"ttsbit.h"
+i"sferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttsbit.h
+c000000004DA0F0740000000000000B99
+t1302392948
+s2969
+i<ft2build.h>
+i"ttload.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/ttsbit0.c
+c000000004DA0F074000000000000699F
+t1302392948
+s27039
+i<ft2build.h>
+i"ttsbit.h"
+i"sferrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/ftgrays.c
+c000000004DA0F074000000000000EA64
+t1302392948
+s60004
+i<stdio.h>
+i<stdarg.h>
+i<stddef.h>
+i<string.h>
+i<setjmp.h>
+i<limits.h>
+i"ftimage.h"
+i"ftgrays.h"
+i<ft2build.h>
+i"ftgrays.h"
+i"ftsmerrs.h"
+i"ftspic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/ftgrays.h
+c000000004DA0F074000000000000090E
+t1302392948
+s2318
+i"ftimage.h"
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/ftsmerrs.h
+c000000004DA0F07400000000000007A5
+t1302392948
+s1957
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/ftsmooth.c
+c000000004DA0F0740000000000003490
+t1302392948
+s13456
+i<ft2build.h>
+i"ftsmooth.h"
+i"ftgrays.h"
+i"ftspic.h"
+i"ftsmerrs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/ftsmooth.h
+c000000004DA0F07400000000000006BC
+t1302392948
+s1724
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/ftspic.c
+c000000004DA0F0740000000000000DE8
+t1302392948
+s3560
+i<ft2build.h>
+i"ftspic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/ftspic.h
+c000000004DA0F074000000000000070F
+t1302392948
+s1807
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c
+c000000004DA0F0740000000000000569
+t1302392948
+s1385
+i<ft2build.h>
+i"ftspic.c"
+i"ftgrays.c"
+i"ftsmooth.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c
+c000000004DA0F07400000000000006A7
+t1302392948
+s1703
+i<ft2build.h>
+i"ttpic.c"
+i"ttdriver.c"
+i"ttpload.c"
+i"ttgload.c"
+i"ttobjs.c"
+i"ttinterp.c"
+i"ttgxvar.c"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttdriver.c
+c000000004DA0F074000000000000454F
+t1302392948
+s17743
+i<ft2build.h>
+i"ttdriver.h"
+i"ttgload.h"
+i"ttpload.h"
+i"ttgxvar.h"
+i"tterrors.h"
+i"ttpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttdriver.h
+c000000004DA0F07400000000000005BA
+t1302392948
+s1466
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/tterrors.h
+c000000004DA0F07400000000000007A2
+t1302392948
+s1954
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttgload.c
+c000000004DA0F07400000000000113F4
+t1302392948
+s70644
+i<ft2build.h>
+i"ttgload.h"
+i"ttpload.h"
+i"ttgxvar.h"
+i"tterrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttgload.h
+c000000004DA0F0740000000000000858
+t1302392948
+s2136
+i<ft2build.h>
+i"ttobjs.h"
+i"ttinterp.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttgxvar.c
+c000000004DA0F074000000000000DD17
+t1302392948
+s56599
+i<ft2build.h>
+i"ttpload.h"
+i"ttgxvar.h"
+i"tterrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttgxvar.h
+c000000004DA0F0740000000000001E82
+t1302392948
+s7810
+i<ft2build.h>
+i"ttobjs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttinterp.c
+c000000004DA0F07400000000000401C4
+t1302392948
+s262596
+i<ft2build.h>
+i"ttinterp.h"
+i"tterrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttinterp.h
+c000000004DA0F07400000000000035EA
+t1302392948
+s13802
+i<ft2build.h>
+i"ttobjs.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttobjs.c
+c000000004DA0F07400000000000097A9
+t1302392948
+s38825
+i<ft2build.h>
+i"ttgload.h"
+i"ttpload.h"
+i"tterrors.h"
+i"ttinterp.h"
+i"ttgxvar.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttobjs.h
+c000000004DA0F0740000000000004B8F
+t1302392948
+s19343
+i<ft2build.h>
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttpic.c
+c000000004DA0F0740000000000000CCD
+t1302392948
+s3277
+i<ft2build.h>
+i"ttpic.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttpic.h
+c000000004DA0F0740000000000000948
+t1302392948
+s2376
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttpload.c
+c000000004DA0F0740000000000004F1C
+t1302392948
+s20252
+i<ft2build.h>
+i"ttpload.h"
+i"ttgxvar.h"
+i"tterrors.h"
+
+N/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/ttpload.h
+c000000004DA0F0740000000000000952
+t1302392948
+s2386
+i<ft2build.h>
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf511cc2c7596b341^f512272d7596b341^---0#1#0#--18"Check dependencies
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/autofit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627501.172635
+e328627502.568223
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/autofit.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c855d2c2d7596b341^8d7d912e7596b341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c0000000000000000^1631"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/autofit.o src/autofit/autofit.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/autofit.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627501.172781
+e328627501.454959
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.caf5b2c2d7596b341^97aa742d7596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o src/base/basepic.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/cff.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.922652
+e328627505.797228
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/cff.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c0b62ec2f7596b341^1616cc317596b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c0000000000000000^1607"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/cff.o src/cff/cff.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/cff.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftapi.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627501.455118
+e328627501.573512
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftapi.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c679e742d7596b341^c91c932d7596b341^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c0000000000000000^1617"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftapi.o src/base/ftapi.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftapi.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbase.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627501.573710
+e328627503.629296
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbase.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c1efe922d7596b341^7e18a12f7596b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c0000000000000000^1621"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbase.o src/base/ftbase.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbase.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbbox.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627502.569855
+e328627502.722733
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbbox.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c7efc912e7596b341^3b56b92e7596b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c0000000000000000^1621"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbbox.o src/base/ftbbox.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbbox.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbitmap.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627502.723418
+e328627502.968003
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbitmap.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.cba4cb92e7596b341^cbd5f72e7596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbitmap.o src/base/ftbitmap.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftbitmap.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627502.968328
+e328627503.030093
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c69fff72e7596b341^b7b3072f7596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o src/base/ftdbgmem.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdebug.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.030257
+e328627503.089062
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdebug.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c45d9072f7596b341^d9cf162f7596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdebug.o src/base/ftdebug.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdebug.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftglyph.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.089256
+e328627503.230212
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftglyph.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c83f6162f7596b341^99f53a2f7596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftglyph.o src/base/ftglyph.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftglyph.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftinit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.230526
+e328627503.324343
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftinit.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c821d3b2f7596b341^2907532f7596b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c0000000000000000^1621"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftinit.o src/base/ftinit.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftinit.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.324502
+e328627503.399907
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c0a2d532f7596b341^4d68662f7596b341^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c0000000000000000^1617"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o src/base/ftpic.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftstroke.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.400326
+e328627503.922327
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftstroke.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.cdd98662f7596b341^931cec2f7596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftstroke.o src/base/ftstroke.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftstroke.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsynth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.629837
+e328627503.744873
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsynth.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c1267a12f7596b341^68afbe2f7596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsynth.o src/base/ftsynth.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsynth.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsystem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.745062
+e328627503.859845
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsystem.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.cbed9be2f7596b341^5726dc2f7596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsystem.o src/base/ftsystem.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftsystem.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/pshinter.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627504.525055
+e328627505.417349
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/pshinter.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.cdb8986307596b341^45d66a317596b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c0000000000000000^1637"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/pshinter.o src/pshinter/pshinter.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/pshinter.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/psnames.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627503.860243
+e328627504.524809
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/psnames.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c8e57dc2f7596b341^b45886307596b341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c0000000000000000^1631"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/psnames.o src/psnames/psnames.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/psnames.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/raster.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627505.417540
+e328627506.198921
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/raster.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c64056b317596b341^2cf332327596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/raster.o src/raster/raster.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/raster.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/sfnt.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627505.798129
+e328627507.602455
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/sfnt.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c0d6dcc317596b341^c8409a337596b341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c0000000000000000^1613"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/sfnt.o src/sfnt/sfnt.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/sfnt.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/smooth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627506.212355
+e328627506.696347
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/smooth.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c8e7836327596b341^5a4ab2327596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/smooth.o src/smooth/smooth.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/smooth.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/truetype.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c normal armv6 c com.apple.compilers.llvmgcc42
+s328627506.696682
+e328627509.328580
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/truetype.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c2a74b2327596b341^d61c54357596b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c0000000000000000^1637"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/truetype.o src/truetype/truetype.c normal armv6 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv6 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/truetype.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/autofit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627507.605136
+e328627508.803253
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/autofit.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c32059b337596b341^33a9cd347596b341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c0000000000000000^1631"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/autofit.o src/autofit/autofit.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/autofit/autofit.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/autofit.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627508.803477
+e328627508.886697
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c3acecd347596b341^4205e3347596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o src/base/basepic.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/basepic.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/cff.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627511.128183
+e328627512.880522
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/cff.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c42b521377596b341^8270e1387596b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c0000000000000000^1607"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/cff.o src/cff/cff.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/cff/cff.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/cff.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftapi.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627508.886963
+e328627508.983090
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftapi.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.ca229e3347596b341^43abfb347596b341^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c0000000000000000^1617"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftapi.o src/base/ftapi.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftapi.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftapi.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbase.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627508.983312
+e328627511.127902
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbase.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c39d4fb347596b341^018926377596b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c0000000000000000^1621"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbase.o src/base/ftbase.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbase.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbase.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbbox.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627509.328927
+e328627509.475647
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbbox.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.cf75a54357596b341^9fca79357596b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c0000000000000000^1621"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbbox.o src/base/ftbbox.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbbox.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbbox.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbitmap.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627509.547325
+e328627509.767481
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbitmap.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.cf8378c357596b341^4180c4357596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbitmap.o src/base/ftbitmap.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftbitmap.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftbitmap.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627509.767790
+e328627509.834586
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c7ea8c4357596b341^0caed5357596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o src/base/ftdbgmem.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdbgmem.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdebug.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627509.834848
+e328627509.902751
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdebug.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.ce5d1d5357596b341^1d21e7357596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdebug.o src/base/ftdebug.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftdebug.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdebug.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftglyph.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627509.902956
+e328627510.099296
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftglyph.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.cee42e7357596b341^596a19367596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftglyph.o src/base/ftglyph.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftglyph.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftglyph.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftinit.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627510.099519
+e328627510.194388
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftinit.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c609319367596b341^b4c931367596b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c0000000000000000^1621"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftinit.o src/base/ftinit.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftinit.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftinit.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627510.194642
+e328627510.273974
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c18ed31367596b341^7c2b46367596b341^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c0000000000000000^1617"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o src/base/ftpic.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftpic.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftstroke.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627510.274209
+e328627510.665119
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftstroke.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c0a4d46367596b341^ba4baa367596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftstroke.o src/base/ftstroke.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftstroke.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftstroke.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsynth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627510.665288
+e328627510.775822
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsynth.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.cc66baa367596b341^8ca3c6367596b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsynth.o src/base/ftsynth.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsynth.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsynth.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsystem.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627510.776138
+e328627510.891160
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsystem.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.cfbcbc6367596b341^d121e4367596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c0000000000000000^1629"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsystem.o src/base/ftsystem.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/base/ftsystem.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftsystem.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/pshinter.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627511.313515
+e328627512.107408
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/pshinter.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.cd05f50377596b341^94851b387596b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c0000000000000000^1637"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/pshinter.o src/pshinter/pshinter.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/pshinter/pshinter.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/pshinter.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/psnames.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627510.891355
+e328627511.313196
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/psnames.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c0e4ee4367596b341^1b2c50377596b341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c0000000000000000^1631"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/psnames.o src/psnames/psnames.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/psnames/psnames.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/psnames.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/raster.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627512.107720
+e328627512.925493
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/raster.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c9fad1b387596b341^45f3ec387596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/raster.o src/raster/raster.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/raster/raster.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/raster.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/sfnt.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627512.880736
+e328627515.056628
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/sfnt.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.cfb92e1387596b341^0c730e3b7596b341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c0000000000000000^1613"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/sfnt.o src/sfnt/sfnt.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/sfnt/sfnt.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/sfnt.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/smooth.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627512.934368
+e328627513.433553
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/smooth.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c984eef387596b341^14046f397596b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c0000000000000000^1625"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/smooth.o src/smooth/smooth.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/smooth/smooth.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/smooth.o
+
+CCompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/truetype.o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c normal armv7 c com.apple.compilers.llvmgcc42
+s328627513.434081
+e328627515.914064
+r1
+xCompileC
+xbuild/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/truetype.o
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c043a6f397596b341^3411ea3b7596b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c0000000000000000^1637"CompileC build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/truetype.o src/truetype/truetype.c normal armv7 c com.apple.compilers.llvmgcc42    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O2 -DFT2_BUILD_LIBRARY=1 -DDARWIN_NO_CARBON -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -mthumb -miphoneos-version-min=3.2 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Freetype2.hmap -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/include -Iinclude -Isrc -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources/armv7 -I/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/DerivedSources -Wextra -Wall -F/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -c /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/src/truetype/truetype.c -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/truetype.o
+
+CCreateUniversalBinary /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/libFreetype2.a normal "armv6 armv7"
+s328627515.992303
+e328627516.136265
+r1
+xCreateUniversalBinary
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/libFreetype2.a
+xnormal
+xarmv6 armv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv6 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a(basepic.o) has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv6 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a(ftdbgmem.o) has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv6 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a(ftpic.o) has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv7 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a(basepic.o) has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv7 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a(ftdbgmem.o) has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv7 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a(ftpic.o) has no symbols
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Create universal binary /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/libFreetype2.aa721fe3b7596b341^a6ee223c7596b341^-1648"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv6 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a(basepic.o) has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv6 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a(ftdbgmem.o) has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv6 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a(ftpic.o) has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv7 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a(basepic.o) has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv7 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a(ftdbgmem.o) has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: for architecture: armv7 file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a(ftpic.o) has no symbols-0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/libFreetype2.a00002044fc01f041^839"CreateUniversalBinary build/Release-iphoneos/libFreetype2.a normal "armv6 armv7"    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos/libFreetype2.a
+
+CLibtool /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a normal armv6
+s328627509.475858
+e328627509.547007
+r1
+xLibtool
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o has no symbols
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Libtool build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a normal armv636ea79357596b341^ff078c357596b341^-704"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/basepic.o has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftdbgmem.o has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/ftpic.o has no symbols-0#0#0#--1038"Libtool build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a normal armv6    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -filelist /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/Freetype2.LinkFileList -framework Foundation -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv6/libFreetype2.a
+
+CLibtool /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a normal armv7
+s328627515.915142
+e328627515.992034
+r1
+xLibtool
+x/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o has no symbols
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o has no symbols
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Libtool build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a normal armv7d15dea3b7596b341^d32efe3b7596b341^-704"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/basepic.o has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftdbgmem.o has no symbols/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: file: /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/ftpic.o has no symbols-0#0#0#--1038"Libtool build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a normal armv7    cd /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2    setenv IPHONEOS_DEPLOYMENT_TARGET 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/local/cuda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/Release-iphoneos -filelist /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/Freetype2.LinkFileList -framework Foundation -o /Users/silver/Projects/College/Ijsfontein/Libraries/freetype2/build/freetype2.build/Release-iphoneos/Freetype2.build/Objects-normal/armv7/libFreetype2.a
+

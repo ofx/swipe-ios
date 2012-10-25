@@ -1,0 +1,118 @@
+//
+//  RenderingEngine1.h
+//  Ijsfontein
+//
+//  Created by Marlon Etheredge on 4/14/11.
+//  Copyright 2011 ofx. All rights reserved.
+//
+
+#pragma once
+
+#include "ResourceManager.h"
+#include "Quad.hpp"
+#include "Common.hpp"
+#include "Disc.hpp"
+//#include "AudioManager.h"
+
+#include <vector>
+
+enum DeviceOrientation 
+{
+    DeviceOrientationUnknown, 
+    DeviceOrientationPortrait, 
+    DeviceOrientationPortraitUpsideDown, 
+    DeviceOrientationLandscapeLeft, 
+    DeviceOrientationLandscapeRight, 
+    DeviceOrientationFaceUp, 
+    DeviceOrientationFaceDown
+};
+
+// Forward declaration of GamestateManager
+class GamestateManager;
+class FontManager;
+class ParticleSystem;
+
+const int  OffscreenCount = 5;
+const bool Optimize       = true;
+
+///
+/// Renderingengine
+///
+/// The renderingengine is meant to be used as a singleton wrapper taking
+/// care of all rendering and maintaining various managers. The renderingengine
+/// is used by initially used by GLView for rendering every frame, but whenever
+/// needed the singleton instance can be retrieved for stuff like texture loading.
+///
+class RenderingEngine 
+{
+private:
+    /// Singleton, so the constructor should be private
+    RenderingEngine( void );
+    
+    /// Checks for collisions while picking
+    bool CheckCollision( Vector2 position, Disc *object );
+    bool CheckCollision( Vector2 position, Gem *object );
+    float VectorToAngle( Vector2 v );
+    
+    /// Managers
+    ResourceManager  *m_ResourceManager;
+    GamestateManager *m_GamestateManager;
+    FontManager      *m_FontManager;
+    //AudioManager     *m_AudioManager;
+    
+    // Particle system
+    ParticleSystem *m_ParticleSystem;
+    
+    /// Axis of rotation (center of the screen)
+    Vector2 m_RotationAxis;
+    
+    IDrawable *m_SelectedDrawable;
+    Gem *m_SelectedGem;
+    
+    Vector2 m_SwipeStart;
+    bool m_Swipe;
+    
+    /// Used for device orientation
+    GLfloat m_Angle;
+    
+    GLuint m_Framebuffer;
+    GLuint m_Renderbuffer;
+    
+    GLuint m_Height, m_Width;
+    
+    /// Vector of drawables
+    std::vector<IDrawable*> m_Drawables;
+    
+    /// Singleton instance
+    static RenderingEngine *s_RenderingEngine;
+public:
+    ~RenderingEngine( void );
+    
+    /// Register a drawable with the renderingengine
+    void RegisterDrawable( IDrawable *drawable );
+    
+    /// Unregister a drawable with the renderingengine
+    void UnregisterDrawable( IDrawable *drawable );
+    
+    /// Returns the or a new RenderingEngine instance
+    static RenderingEngine *GetRenderingEngine( void );
+    
+    /// Returns the instantiated ResourceManager
+    ResourceManager *GetResourceManager( void );
+    
+    /// Returns the instantiated FontManager
+    FontManager *GetFontManager( void );
+    
+    /// Used by GLView for rendering and initialization
+    void Initialize( int width, int height );
+    void Update( void ) const;
+    void Render( void ) const;
+    void UpdateAnimation( float timeStep ) {}
+    void Reset( void );
+
+    /// Events triggered by GLView
+    void OnRotate( DeviceOrientation newOrientation );
+    void OnFingerUp( Vector2 location );
+    void OnFingerDown( Vector2 location );
+    void OnFingerMove( Vector2 oldLocation, Vector2 newLocation );
+};
